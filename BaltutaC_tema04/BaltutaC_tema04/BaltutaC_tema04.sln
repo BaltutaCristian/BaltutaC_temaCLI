@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaltutaC_tema04", "BaltutaC_tema04\BaltutaC_tema04.csproj", "{1321389F-AE37-4EF0-8B8B-BA5AD08E73ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1321389F-AE37-4EF0-8B8B-BA5AD08E73ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1321389F-AE37-4EF0-8B8B-BA5AD08E73ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1321389F-AE37-4EF0-8B8B-BA5AD08E73ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1321389F-AE37-4EF0-8B8B-BA5AD08E73ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
