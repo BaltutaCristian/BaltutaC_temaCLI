@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "W:\\Tema EGC\\BaltutaC_temaCLI\\BaltutaC_temaCLI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E20A97B2-FDFE-4185-A828-A21E04A8D468}|EGC\\EGC.csproj|w:\\tema egc\\baltutac_temacli\\baltutac_temacli\\egc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20A97B2-FDFE-4185-A828-A21E04A8D468}|EGC\\EGC.csproj|solutionrelative:egc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E20A97B2-FDFE-4185-A828-A21E04A8D468}|EGC\\EGC.csproj|w:\\tema egc\\baltutac_temacli\\baltutac_temacli\\egc\\raspuns_intrebari.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{E20A97B2-FDFE-4185-A828-A21E04A8D468}|EGC\\EGC.csproj|solutionrelative:egc\\raspuns_intrebari.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|EGC||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Raspuns_Intrebari.md",
+              "DocumentMoniker": "W:\\Tema EGC\\BaltutaC_temaCLI\\BaltutaC_temaCLI\\EGC\\Raspuns_Intrebari.md",
+              "RelativeDocumentMoniker": "EGC\\Raspuns_Intrebari.md",
+              "ToolTip": "W:\\Tema EGC\\BaltutaC_temaCLI\\BaltutaC_temaCLI\\EGC\\Raspuns_Intrebari.md",
+              "RelativeToolTip": "EGC\\Raspuns_Intrebari.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-13T03:06:56.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EGC",
+              "DocumentMoniker": "W:\\Tema EGC\\BaltutaC_temaCLI\\BaltutaC_temaCLI\\EGC\\EGC.csproj",
+              "RelativeDocumentMoniker": "EGC\\EGC.csproj",
+              "ToolTip": "W:\\Tema EGC\\BaltutaC_temaCLI\\BaltutaC_temaCLI\\EGC\\EGC.csproj",
+              "RelativeToolTip": "EGC\\EGC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-13T02:54:16.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "W:\\Tema EGC\\BaltutaC_temaCLI\\BaltutaC_temaCLI\\EGC\\Program.cs",
+              "RelativeDocumentMoniker": "EGC\\Program.cs",
+              "ToolTip": "W:\\Tema EGC\\BaltutaC_temaCLI\\BaltutaC_temaCLI\\EGC\\Program.cs",
+              "RelativeToolTip": "EGC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T02:23:57.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
