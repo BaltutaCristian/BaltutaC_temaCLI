@@ -1,0 +1,11 @@
+W:\Tema EGC\BaltutaC_tema04\BaltutaC_tema04\BaltutaC_tema04\obj\Debug\BaltutaC_tema04.csproj.AssemblyReference.cache
+W:\Tema EGC\BaltutaC_tema04\BaltutaC_tema04\BaltutaC_tema04\obj\Debug\BaltutaC_tema04.csproj.CoreCompileInputs.cache
+W:\Tema EGC\BaltutaC_tema04\BaltutaC_tema04\BaltutaC_tema04\bin\Debug\BaltutaC_tema04.exe.config
+W:\Tema EGC\BaltutaC_tema04\BaltutaC_tema04\BaltutaC_tema04\bin\Debug\BaltutaC_tema04.exe
+W:\Tema EGC\BaltutaC_tema04\BaltutaC_tema04\BaltutaC_tema04\bin\Debug\BaltutaC_tema04.pdb
+W:\Tema EGC\BaltutaC_tema04\BaltutaC_tema04\BaltutaC_tema04\bin\Debug\OpenTK.dll
+W:\Tema EGC\BaltutaC_tema04\BaltutaC_tema04\BaltutaC_tema04\bin\Debug\OpenTK.pdb
+W:\Tema EGC\BaltutaC_tema04\BaltutaC_tema04\BaltutaC_tema04\bin\Debug\OpenTK.xml
+W:\Tema EGC\BaltutaC_tema04\BaltutaC_tema04\BaltutaC_tema04\obj\Debug\BaltutaC.58ECDF5D.Up2Date
+W:\Tema EGC\BaltutaC_tema04\BaltutaC_tema04\BaltutaC_tema04\obj\Debug\BaltutaC_tema04.exe
+W:\Tema EGC\BaltutaC_tema04\BaltutaC_tema04\BaltutaC_tema04\obj\Debug\BaltutaC_tema04.pdb
